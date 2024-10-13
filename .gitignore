@@ -1,0 +1,180 @@
+# Visual Studio files
+.vs/
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper
+_ReSharper*/
+*.resharper*
+*.DotSettings.user
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# StyleCop
+StyleCopReport.xml
+
+# JustCode
+.JustCode
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web Essentials
+_WebEssentials*
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Build results of an ATL project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# StyleCop
+StyleCopSettings.StyleCop
+StyleCopSettings.StyleCop.user
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+.paket/paket.restore.csproj
+.paket/paket.targets
+paket.lock
+paket.deps
+paket.references
+paket-files/
+
+# FAKE - F# Make
+.fake/
+.fake/build.fsx
+.build/
+.build.fsx
+.build.exe
+.build.exe.config
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider for Unreal Engine
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Build folder
+/build/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint
+.eslintcache
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Nest.js
+/dist/
+
+# Parcel
+.cache/
+.parcel-cache/
+
+# Yarn
+.yarn/
+.yarnrc
+.yarn-integrity
+.pnp.*
+
+# Bower
+bower_components/
+
+# Snowpack
+web_modules/
+snowpack.config.js
+snowpack.lock.json
+src/web_modules/
+
+# Rollup.js
+.rollup.cache/
+.rollup.config.js
+
+# Docusaurus
+.docusaurus/
+
+# Expo
+.expo/
+node_modules/
+*.jks
+*.p8
+
+# Expo Web
+web-build/
+
+# Gatsby
+.cache/
+public/
